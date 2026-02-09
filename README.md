@@ -1,14 +1,14 @@
-# Facilitator Lottery Application
+# ファシリテーター抽選アプリ
 
-## Overview
+## 概要
 The Facilitator Lottery Application is designed to randomly select a facilitator from a list of candidates for meetings or events. It ensures a fair selection process and can be easily customized for different groups and contexts.
 
-## Features
+## 機能
 - Random selection of facilitators
 - Easy to add or remove candidates
 - User-friendly interface
 
-## Installation
+## インストール方法
 1. Clone the repository:
    ```bash
    git clone https://github.com/kikkumemo/pythonapps.git
@@ -22,7 +22,7 @@ The Facilitator Lottery Application is designed to randomly select a facilitator
    pip install -r requirements.txt
    ```
 
-## Usage
+## 使用方法
 To run the application, execute the following command:
 ```bash
 python facilitator_lottery.py
