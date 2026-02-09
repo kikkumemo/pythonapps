@@ -28,7 +28,7 @@ To run the application, execute the following command:
 python facilitator_lottery.py
 ```
 
-## Contribution
+## 貢献方法
 Contributions are welcome! Please submit a pull request or report issues on the GitHub repository.
 
 ## License
